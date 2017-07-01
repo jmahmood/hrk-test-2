@@ -1,0 +1,8 @@
+{
+  "name": "Test File #2",
+  "description": "A barebones Python app, for use for the second test.",
+  "image": "heroku/python",
+  "repository": "https://github.com/jmahmood/hrk-test-2",
+  "keywords": ["python", "django" ],
+  "addons": []
+}
