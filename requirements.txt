@@ -4,4 +4,4 @@ psycopg2==2.6.2
 whitenoise==2.0.6
 newrelic
 requests
-vncdotool==0.9.0
+vncdotool>=11.0.0
