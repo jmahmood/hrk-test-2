@@ -4,4 +4,4 @@ psycopg2==2.6.2
 whitenoise==2.0.6
 newrelic
 requests
-django-wizard-builder=1.0.1
+django-wizard-builder==1.0.1
