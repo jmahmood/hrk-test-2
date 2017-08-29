@@ -8,6 +8,6 @@ from setuptools import setup, find_packages
 
 setup(
     install_requires=[
-        'django-wizard-builder==1.0.1',
+        'django-wizard-builder==1.0.5',
     ],
 )
