@@ -1,1 +1,6 @@
--r basereq.txt
+Django==1.9.7
+gunicorn==19.6.0
+psycopg2==2.6.2
+whitenoise==2.0.6
+newrelic
+requests
